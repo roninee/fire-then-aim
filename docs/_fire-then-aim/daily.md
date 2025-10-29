@@ -12,6 +12,8 @@
 
 shop：油烟机，净水器
 
+浏览器内容，notepad，vscode——整合。
+
 
 
 
