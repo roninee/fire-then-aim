@@ -12,6 +12,12 @@ Daily Conversation（夸奖、幽默、沟通）
 
 Storytelling
 
+> Parables of Jesus——练习汉语讲故事
+> https://www.jesusfilm.org/blog/parables-of-jesus/
+> https://www.swapmeetdave.com/Bible/Parables/index.htm
+> https://www.biblestudytools.com/topical-verses/parables-of-jesus/
+> https://www.gotquestions.org/parables-in-the-Bible.html
+
 Reflection（复述圣经寓言或短篇）
 
 Writing/Response Templates（你与人交往中常用句型）
@@ -92,11 +98,11 @@ Release（我用何种方式表达出来）：
 >     ```
 >     [开场：戏剧pose，英文]
 >     "Imagine: Anti-China protests in Seoul. Three students speak... but vaguely. Why?
->         
+>             
 >     Point: First guy says 'It hurts Chinese feelings' – like a diplomat script.
 >     Action: No details on daily life? No counter to spy myths?
 >     Result: Signals deep self-censorship. For traders: Geopolitical risk up – short Korean exports?
->         
+>             
 >     [结尾：镜子自问] What would YOU say directly?"
 >     ```
 >

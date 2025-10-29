@@ -1,3 +1,9 @@
+Relax your shoulders
+take a breath
+Just breathe
+Slow down
+Take your time
+
 ## Cause
 
 * 交易需要calm
@@ -13,3 +19,6 @@
 4-7-8呼吸法
 
 ## Meditation
+
+
+

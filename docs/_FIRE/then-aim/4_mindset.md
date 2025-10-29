@@ -1,5 +1,12 @@
 记住邓晓芒的，没有完美的人生状态。
 
+> 重复一个行为就能使之成为习惯。
+> 习惯塑造性格。
+> 性格决定命运。
+> 愿成功是你的命运。
+
+性格决定命运，习惯
+
 * fire then aim，Act Then Adjust
 * Hit First, Adjust Later.
 * Do It First, Improve It Later
