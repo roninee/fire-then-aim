@@ -11,6 +11,32 @@ who am i太哲学，容易自我拷问（“我到底是谁？”→ 焦虑）
 | **名人引言（理性、现实、冷峻）**     | 思维矫正 / 心智去理想化 | 👉 `Mindset`（或 `Pragmatism`）            |
 | **理想主义 vs 现实主义对比反思**     | 认知对冲 / 自我平衡     | 👉 `Mindset`（或新建子页 “Reality Check”） |
 
+
+
+## Inner  Voice
+
+ Confidence In God
+
+- 慧慧：你是国王么
+- 符医生：没想到我这么快提升，他最开始的时候很担心我，很心慌，能好这么快，跟药有关，跟天赋也有关 我有向上的力量。手势
+- 你过了这道坎，未来一定非常好
+- 医院大夫：他的眼睛非常好，即使近视了，也非常好
+- 霄霄：不想听你敷衍，说明她重视我的观点
+- 夏：王者之风
+- 姜磊：主公
+- 陈博士 奥运—— 你木多，在生长，你的思路太快，很多人跟不上你 。体态，握手姿势身体正直。
+- 按摩刘姐：你适合跟高端人在一起
+- 不学无术：你逻辑太清晰了
+- 阿钰：你太聪明了，心机男
+- 张静：你就是太聪明了，看的太清楚了，所以躺平
+- 三国杀网友：你为什么胜率很普通，就是太聪明了，比别人反应太快了，所以不受到普通人认可。
+
+
+
+## iliad icclisd
+
+
+
 Who am I
  ├── Faith Extracts（圣经摘录、精神语句）
  ├── Inner Voice（朋友评价、你希望成为的人）
@@ -151,21 +177,7 @@ The first thing to learn in intercourse with others is non-interference with the
 The greatest discovery of my generation is that a human being can alter his life by altering his attitudes.
 我们这一代最伟大的发现是：一个人可以通过改变态度来改变他的人生。
 
-# 自信 Confidence In God
 
-- 慧慧：你是国王么
-- 符医生：没想到我这么快提升，他最开始的时候很担心我，很心慌，能好这么快，跟药有关，跟天赋也有关 我有向上的力量。手势
-- 你过了这道坎，未来一定非常好
-- 医院大夫：他的眼睛非常好，即使近视了，也非常好
-- 霄霄：不想听你敷衍，说明她重视我的观点
-- 夏：王者之风
-- 姜磊：主公
-- 陈博士 奥运—— 你木多，在生长，你的思路太快，很多人跟不上你 。体态，握手姿势身体正直。
-- 按摩刘姐：你适合跟高端人在一起
-- 不学无术：你逻辑太清晰了
-- 阿钰：你太聪明了，心机男
-- 张静：你就是太聪明了，看的太清楚了，所以躺平
-- 三国杀网友：你为什么胜率很普通，就是太聪明了，比别人反应太快了，所以不受到普通人认可。
 
 虽然*圣经中整体鼓励爱人、真诚、仁慈，但它并不天真*，有不少章节 强调要有“防御心态”“慎言慎行”“识人而后交”“不要把自己暴露给不配的人”。这些内容与你说的“应对现代网络环境、避免被人轻易伤害或利用”非常契合。
 
@@ -462,10 +474,7 @@ A feast is made for laughter, and wine maketh merry: but money answereth all thi
 A wise man’s heart is at his right hand; but a fool’s heart at his left.
 智慧人的心在右边，愚昧人的心在左边。
 
-## Ecclesiastes 11:1 KJV 传道书 11:1
 
-Cast thy bread upon the waters: for thou shalt find it after many days.
-将你的粮食撒在水面，因为过了许多日，你必能找到它。
 
 ## Ecclesiastes 12:7 KJV 传道书 12:7
 
@@ -487,10 +496,7 @@ I said in mine heart concerning the estate of the sons of men, that God might ma
 Again, if two lie together, then they have heat: but how can one be warm alone?
 再者，二人同睡，就感到暖和；一人独睡，怎能感到暖和呢？
 
-## Ecclesiastes 4:12 KJV 传道书 4:12
 
-And if one prevail against him, two shall withstand him; and a threefold cord is not quickly broken.
-若有一人胜过他，若有二人就能敌挡他；三股绳不易折断。
 
 ## Ecclesiastes 4:9 KJV 传道书 4:9
 
@@ -505,15 +511,7 @@ He that loveth silver shall not be satisfied with silver; nor he that loveth abu
 For there is not a just man upon earth, that doeth good, and sinneth not.
 因为世上实在没有一个义人，既行善，又不犯罪。
 
-## Ecclesiastes 7:8 KJV 传道书 7:8
 
-Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.
-事情的终局强如事情的起头；心里忍耐的，胜过心里骄傲的。
-
-## Ecclesiastes 7:9 KJV 传道书 7:9
-
-Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.
-不要急于生气，因为怒气只存在于愚昧人的怀中。
 
 ## Ecclesiastes 9:10 KJV 传道书 9:10
 
