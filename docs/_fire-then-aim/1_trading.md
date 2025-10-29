@@ -17,6 +17,8 @@ Pragmatism（实用主义哲学语录）
 * 英文
     1. Reuters: 最简洁、最中性、文字最易读，非常适合英语练习与全球趋势。路透社——面向全球，编辑要求语言简单，比简单直接的美式的美联社还简单，因为美联社面向本土，是美国内部的报社风格。
     2. youtube search market **bloomberg**
+        * china show or aisa trade——亚裔面孔
+        * the open or the close
     3. https://asia.nikkei.com
     4. ~~财新英文不好~~——英语表达偏“政策口语”风格，较少自然口语。更新频率低于路透
 
