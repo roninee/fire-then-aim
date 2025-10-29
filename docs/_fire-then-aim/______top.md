@@ -1,3 +1,11 @@
+## today：
+
+熟悉bloomberg 字幕，其次路透社
+
+瑜伽？
+
+
+
 
 
 ## reminder

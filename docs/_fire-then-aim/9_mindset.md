@@ -1,5 +1,16 @@
 记住邓晓芒的，没有完美的人生状态。
 
+* fire then aim，Act Then Adjust
+* Hit First, Adjust Later.
+* Do It First, Improve It Later
+* ail Fast, Fail Forward   快速失败，然后从中学习前进。侧重试错的价值。  
+* Move Fast and Break Things  快速行动，即使打破东西也在所不惜（后修复）。  
+* Done is Better Than Perfect 
+* Start Messy
+* Action Creates Clarity.
+
+
+
 Mindset（新增）
  ├── Reality Check（反例练习、太天真吃亏记录）
  └── Perspective（从理想到现实的转化反思）

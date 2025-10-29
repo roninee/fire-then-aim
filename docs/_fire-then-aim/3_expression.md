@@ -1,3 +1,9 @@
+高压环境下要表达
+
+情感
+
+
+
 表达是社交/影响力的杠杆
 
 两个方向：情感表达、storytelling，
@@ -86,11 +92,11 @@ Release（我用何种方式表达出来）：
 >     ```
 >     [开场：戏剧pose，英文]
 >     "Imagine: Anti-China protests in Seoul. Three students speak... but vaguely. Why?
->     
+>         
 >     Point: First guy says 'It hurts Chinese feelings' – like a diplomat script.
 >     Action: No details on daily life? No counter to spy myths?
 >     Result: Signals deep self-censorship. For traders: Geopolitical risk up – short Korean exports?
->     
+>         
 >     [结尾：镜子自问] What would YOU say directly?"
 >     ```
 >

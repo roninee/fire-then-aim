@@ -1,11 +1,4 @@
-* fire then aim，Act Then Adjust
-* Hit First, Adjust Later.
-* Do It First, Improve It Later
-* ail Fast, Fail Forward   快速失败，然后从中学习前进。侧重试错的价值。  
-* Move Fast and Break Things  快速行动，即使打破东西也在所不惜（后修复）。  
-* Done is Better Than Perfect 
-* Start Messy
-* Action Creates Clarity.
+
 
 who am i太哲学，容易自我拷问（“我到底是谁？”→ 焦虑）
 —i am完美！ ① 主动肯定（I am king） ② 美国小学生式肯定句天然归属 ③ 零疏离感
