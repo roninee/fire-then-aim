@@ -14,7 +14,24 @@ shop：油烟机，净水器
 
 浏览器内容，notepad，vscode——整合。
 
+1. 确定faith-英文内化
+2. 放松，瑜伽，冥想
+3. body：**左侧激活**, **dance**, shadow boxing，**Hip Airplane**，hip calmbell,横叉竖叉
+4. 英语表达，gpt交流——学习英语积极夸奖别人
+5. 汉语表达自己情感
+6. 汉语讲故事，沟通
+7. Parables of Jesus——练习汉语讲故事
+    https://www.jesusfilm.org/blog/parables-of-jesus/
+    https://www.swapmeetdave.com/Bible/Parables/index.htm
+    https://www.biblestudytools.com/topical-verses/parables-of-jesus/
+    https://www.gotquestions.org/parables-in-the-Bible.html
 
+
+
+- “Did I *create* a positive experience today?”
+- Don't Give the Enemy a Seat at Your Table
+
+药物：叶酸，gpt整理
 
 
 
@@ -56,7 +73,7 @@ Take your time
 4. 冥想、放松
 5. dance 拳击-action
 6. 拳击基本躲闪，晃动上身
-7. 
+7. 叶酸
 
 
 
@@ -176,8 +193,3 @@ Bob-and-Weave作为热身
 
 
 以交易为中心，培养自己的交易员性格，以及额外的提升英语能力，提升与异性聊天技巧
-
-
-
-
-
