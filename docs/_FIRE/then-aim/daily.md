@@ -1,18 +1,20 @@
 ## today：
 
-熟悉bloomberg 字幕，其次路透社
+熟悉**bloomberg** 字幕，其次路透社
+
+*表达，*——第一次开始
 
 瑜伽？
 
 表达，now
 
-左侧，髋部，舞蹈
+左侧，髋部，**舞蹈**
 
 叶酸
 
 shop：油烟机，净水器
 
-浏览器内容，notepad，vscode——整合。
+**浏览器内容，notepad，vscode——整合。**
 
 
 
@@ -20,7 +22,7 @@ shop：油烟机，净水器
 
 
 
-- “Did I *create* a positive experience today?”
+- Did I *create* a positive experience today?
 - Don't Give the Enemy a Seat at Your Table
 
 
