@@ -9,7 +9,19 @@
 * Start Messy
 * Action Creates Clarity.
 
+## 积极
 
+汉语文化不表演，英语经常夸人
+
+prayer the positive thinking—
+
+chinese driver
+
+
+
+
+
+## 
 
 Mindset（新增）
  ├── Reality Check（反例练习、太天真吃亏记录）

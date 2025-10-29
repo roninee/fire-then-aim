@@ -2,6 +2,14 @@
 
 本周不用哑铃，因为左手腕的伤势在恢复中
 
+
+
+## wish
+
+https://www.youtube.com/watch?v=LWtUB6Ukp8E 拳击步法
+
+空翻
+
 ## 放松
 
 瑜伽
@@ -27,6 +35,10 @@
 face-pull必做
 
 ## 力量训练计划
+
+
+
+Bob-and-Weave作为热身
 
 
 
