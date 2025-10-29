@@ -107,8 +107,6 @@ o  自私
 
 
 
-## 短线交易
-
 
 
 ## 积极
@@ -119,58 +117,7 @@ prayer the positive thinking—
 
 chinese driver
 
-## 拳击
 
-### 练习时别忘了带护齿
-
-### 最重要的三种拳法
-
--https://www.youtube.com/watch?v=R26XPyEpm4M
-
-* jab
-    1. 注意要同时迈步
-    2. 同时还能防守，后撤同时出拳
-* cross
-    1. 出拳时，头不要向前伸
-* 前手勾拳
-
-
-
-### 少实战，对大脑不好
-
- https://www.youtube.com/watch?v=pr9SrH9zbU8
-
-這影片的重點就是**「享受沒有危險的訓練」**，點到為止的訓練是最安全的
-
-### 步法
-
-https://www.youtube.com/watch?v=LWtUB6Ukp8E
-
-Bob-and-Weave——最基础
-
-## 健身
-
-Bob-and-Weave作为热身
-
-## Dance
-
-情绪，身体不能欺骗自己
-
-## 汉语说话
-
-## 音乐
-
-唱诗
-
-## 笑——大笑/微笑
-
-## Reading
-
-# 荷马史诗选择
-
-* Lombardo’s 戏剧性，很多现代性的俚语，削弱其史诗气质——如果目的是学习当代英语，那么以此为主
-* Fagles 史诗，恢弘，综合评价最高
-* ~~Fitzgerald 优雅，文学性很强，但是不符合荷马史诗创作的平民气质——排除~~
 
 
 
