@@ -2,7 +2,11 @@
 
 情感
 
+情绪依赖与自我价值关联：别人的嘲讽触及你的自尊，你把“赢/被尊重”当作自我价值的主要来源。
 
+情绪出口不足：你自述散打、柔术后放松明显——说明强刺激/对抗是你重要的情绪阀口。没有稳定出口时，游戏里就成了泄压的场所。
+
+欠缺安全感
 
 表达是社交/影响力的杠杆
 
@@ -98,11 +102,11 @@ Release（我用何种方式表达出来）：
 >     ```
 >     [开场：戏剧pose，英文]
 >     "Imagine: Anti-China protests in Seoul. Three students speak... but vaguely. Why?
->             
+>                 
 >     Point: First guy says 'It hurts Chinese feelings' – like a diplomat script.
 >     Action: No details on daily life? No counter to spy myths?
 >     Result: Signals deep self-censorship. For traders: Geopolitical risk up – short Korean exports?
->             
+>                 
 >     [结尾：镜子自问] What would YOU say directly?"
 >     ```
 >
