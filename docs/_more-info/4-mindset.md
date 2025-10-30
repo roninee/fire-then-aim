@@ -187,7 +187,7 @@ The greatest discovery of my generation is that a human being can alter his life
 
 灵巧如蛇，驯良如鸽子
 
-太阳底下没有新鲜事
+
 
 狮子的勇猛，狐狸的狡猾
 
@@ -256,7 +256,7 @@ The greatest discovery of my generation is that a human being can alter his life
 ## Inspirational Bible verses 励志圣经经文
 
 - ***\*Deuteronomy 31:6\**** “Be strong and courageous. Do not be afraid or terrified because of them, for the LORD your God goes with you; he will never leave you nor forsake you.”
-    ***\*申命记 31:6\**** “你们当刚强壮胆。不要因他们害怕或惊慌，因为耶和华你的上帝与你同在；他永远不会离开你，也不会抛弃你。”
+    ***\*申命记 31:6\**** “你们**当刚强壮胆。不要因他们害怕或惊慌**，因为耶和华你的上帝与你同在；他永远不会离开你，也不会抛弃你。”
 - ***\*2 Corinthians 5:7\**** “For we live by faith, not by sight.”
     ***\*哥林多后书 5:7\**** “因我们行事为人，是凭着信心，不是凭着眼见。”
 - ***\*Psalm 23: 5-6\**** “You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows. Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the LORD for ever.”
@@ -372,13 +372,13 @@ If you love these encouraging Bible verses, why not share them with your friends
 
 ### 3. ***\*关于不要为别人改变不了的命运而难过\****
 
-- ***\*“各人必担当自己的担子。”\****（加拉太书 6:5）—— 每个人都要为自己的命运负责，你无法替他们承受一切。
+- *“各人必担当自己的担子。”*（加拉太书 6:5）—— 每个人都要为自己的命运负责，你无法替他们承受一切。
 - ***\*“流泪撒种的，必欢呼收割。”\****（诗篇 126:5）—— 说明即便现在看到苦难，也要相信最终的好结果。
 - ***\*耶稣面对犹大出卖他时，并没有极力阻止，而是说：“你要做的，就快做吧。”\****（约翰福音 13:27）—— 这表明耶稣尊重他人的选择，即便那是走向毁灭的道路。
 
 ### 4. ***\*关于乐观主义与看到世界美好的一面\****
 
-- ***\*“你们要常常喜乐，不住地祷告，凡事谢恩。”\****（帖撒罗尼迦前书 5:16-18）—— 鼓励人用感恩的态度面对生活，不管环境如何。
+- *“你们要常常喜乐，不住地祷告，凡事谢恩。”*（帖撒罗尼迦前书 5:16-18）—— 鼓励人用感恩的态度面对生活，不管环境如何。
 - ***\*“上帝造的都是好的，凡物都可以吃，只要感谢着领受。”\****（提摩太前书 4:4）—— 说明世界本身是美好的。
 - ***\*“求你指教我们怎样数算自己的日子，好叫我们得着智慧的心。”\****（诗篇 90:12）—— 说明要珍惜生命的美好。
 - ***\*“义人虽七次跌倒，仍必兴起。”\****（箴言 24:16）—— 强调乐观与坚持。
@@ -420,17 +420,17 @@ That which is crooked cannot be made straight: and that which is wanting cannot 
 ## Ecclesiastes 1:18 KJV 传道书 1:18
 
 For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.
-因为，多有智慧，就多有忧患；加增知识，就加增忧患。
+*因为，多有智慧，就多有忧患；加增知识，就加增忧患。*
 
 ## Ecclesiastes 1:9 KJV 传道书 1:9
 
 The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
-已有的事，后必再有；已行的事，后必再行；日光之下，并无新事。
+*已有的事，后必再有；已行的事，后必再行；日光之下，并无新事。*
 
 ## Ecclesiastes 10:19 KJV 传道书 10:19
 
 A feast is made for laughter, and wine maketh merry: but money answereth all things.
-筵席使人欢笑，酒能使人快乐，但金钱能解决万事。
+*筵席使人欢笑，酒能使人快乐，但金钱能解决万事。*
 
 ## Ecclesiastes 10:2 KJV 传道书 10:2 KJV
 
@@ -447,7 +447,7 @@ Then shall the dust return to the earth as it was: and the spirit shall return u
 ## Ecclesiastes 3:1 KJV 传道书 3:1
 
 To every thing there is a season, and a time to every purpose under the heaven:
-凡事都有定期，天下万务都有定时。
+*凡事都有定期，天下万务都有定时。*
 
 ## Ecclesiastes 3:18 KJV 传道书 3:18
 
@@ -457,7 +457,7 @@ I said in mine heart concerning the estate of the sons of men, that God might ma
 ## Ecclesiastes 4:11 KJV 传道书 4:11
 
 Again, if two lie together, then they have heat: but how can one be warm alone?
-再者，二人同睡，就感到暖和；一人独睡，怎能感到暖和呢？
+*再者，二人同睡，就感到暖和；一人独睡，怎能感到暖和呢？*
 
 
 
@@ -472,20 +472,19 @@ He that loveth silver shall not be satisfied with silver; nor he that loveth abu
 ## Ecclesiastes 7:20 KJV 传道书 7:20
 
 For there is not a just man upon earth, that doeth good, and sinneth not.
-因为世上实在没有一个义人，既行善，又不犯罪。
+*因为世上实在没有一个义人，既行善，又不犯罪。*
 
 
 
 ## Ecclesiastes 9:10 KJV 传道书 9:10
 
 Whatsoever thy hand findeth to do, do it with thy might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither thou goest.
-凡你手所当做的事，要尽力去做；因为在你所必去的阴间，没有工作，没有谋略，没有知识，也没有智慧。
+*凡你手所当做的事，要尽力去做；因为在你所必去的阴间，没有工作，没有谋略，没有知识，也没有智慧。*
 
 ## Ecclesiastes 9:11 KJV 传道书 9:11
 
 I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.
-我又转念，见日光之下，快跑的未必能赢，力战的未必能得胜，智慧的未必得粮食，聪明的未必得资财，灵巧的未必得喜悦；凡事所遭遇的，都在乎当时的机会。
+*我又转念，见日光之下，快跑的未必能赢，力战的未必能得胜，智慧的未必得粮食，聪明的未必得资财，灵巧的未必得喜悦；凡事所遭遇的，都在乎当时的机会。*
 
 
 
-## others quotes

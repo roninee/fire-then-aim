@@ -240,13 +240,13 @@
 我不需要知道一切，我只需要知道在哪里，在我需要的时候找到它]
 
 [I must be willing to give up what I am in order to become what I will be.
-我必须愿意放弃我现在的样子，才能成为我将来的样子。]
+*我必须愿意放弃我现在的样子，才能成为我将来的样子。*]
 
 [There is no vaccine against stupidity.
 没有针对愚蠢的疫苗。]
 
 [A ship is always safe at the shore - but that is NOT what it is built for.
-一艘船在岸上总是安全的——但这不是它的建造目的。]
+*一艘船在岸上总是安全的——但这不是它的建造目的*。]
 
 [Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
 从昨天吸取教训，为今天而活，为明天抱有希望。重要的是不要停止质疑。]
