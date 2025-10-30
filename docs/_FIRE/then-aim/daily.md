@@ -76,3 +76,16 @@ shop：油烟机，净水器
 
 
 
+##  daily_affirmations
+
+> 内容示例（每天读大声读）：
+>
+> text
+>
+> ```
+> 1. I am calm under pressure.
+> 2. I am the king of my reality.
+> 3. I am a learning machine.
+> ```
+>
+> > **微习惯**：起床后对着镜子读3句，10秒完成。
