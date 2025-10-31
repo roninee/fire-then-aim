@@ -102,11 +102,11 @@ Release（我用何种方式表达出来）：
 >     ```
 >     [开场：戏剧pose，英文]
 >     "Imagine: Anti-China protests in Seoul. Three students speak... but vaguely. Why?
->                 
+>                         
 >     Point: First guy says 'It hurts Chinese feelings' – like a diplomat script.
 >     Action: No details on daily life? No counter to spy myths?
 >     Result: Signals deep self-censorship. For traders: Geopolitical risk up – short Korean exports?
->                 
+>                         
 >     [结尾：镜子自问] What would YOU say directly?"
 >     ```
 >
@@ -151,4 +151,9 @@ Release（我用何种方式表达出来）：
 ## 用英语表达
 
 模仿feeling better
+
+
+
+NGSL口语单词优先：
+unclear,area,item,term,expect,particular,involve,form,provide,tape,stick,draw,present,amount,committee,budget,particularly,especially,staff,definitely,further,straight,ought,bear,offer,therefore,effect,unless,period,bother,benefit,hang,national,council,instead,tend,account,statement,board,fund,travel,specific,degree,research,extra,relate,aware,effort,review,affect,require,apply,various,purpose
 
