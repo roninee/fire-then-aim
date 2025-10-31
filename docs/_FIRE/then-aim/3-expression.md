@@ -8,6 +8,41 @@
 
 欠缺安全感
 
+**语速,自信，自己的感觉，而不是别人**
+
+英文 直接表达——太好了，正好还能锻炼英文,根据gpt的做就行了
+
+The Virtue of Selfishness
+long short story
+Daring Greatly
+动物农场
+练习“I feel”句式，**每天用5句话描述自己的情绪。**
+练习“三句话讲完一件事”
+
+风格，积极心态，美式永恒乐观 
+诚实面对自己内心才会更开心
+
+热情、激情、活力
+
+乐观 播客
+
+表达 具体的思路，描写，五种感觉，表达情感
+
+
+positive
+
+中国文化过于追求认同，比如追求胜利，在意别人的眼光
+
+**i feel** Long Story Short ，1984 **动物农场**，
+
+
+英语直接，学习，对话，positvive thinking，基督
+对于对方提出来的话题，从自己的经历、感受、联想，或对方的情绪、细节、复述对方的表达等6个方面推进对话。
+
+**直接，去除中式傻笑**
+
+*faith： 读再多圣经也改不了“太理想化”加 “反例练习”：每天写1件“你过去太天真导致亏钱/吃亏”的事，贴在显眼处。*
+
 表达是社交/影响力的杠杆
 
 两个方向：情感表达、storytelling，
@@ -102,11 +137,11 @@ Release（我用何种方式表达出来）：
 >     ```
 >     [开场：戏剧pose，英文]
 >     "Imagine: Anti-China protests in Seoul. Three students speak... but vaguely. Why?
->                         
+>                                 
 >     Point: First guy says 'It hurts Chinese feelings' – like a diplomat script.
 >     Action: No details on daily life? No counter to spy myths?
 >     Result: Signals deep self-censorship. For traders: Geopolitical risk up – short Korean exports?
->                         
+>                                 
 >     [结尾：镜子自问] What would YOU say directly?"
 >     ```
 >

@@ -4,6 +4,8 @@ Just breathe
 Slow down
 Take your time
 
+## 精力有限，要事优先
+
 ## Cause
 
 * 交易需要calm
