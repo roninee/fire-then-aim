@@ -40,7 +40,13 @@ face-pull必做
 
 Bob-and-Weave作为热身
 
+六个方向
 
+https://www.youtube.com/watch?v=bFTdIp5EDw8
+
+![image-20251106110225573](../../../athletics/docs/images/image-20251106110225573.png)
+
+![image-20251106110550798](../../../athletics/docs/images/image-20251106110550798.png)
 
 * 拳击躲闪热身
 * 肩部下沉，无论是拳击还是健身y
