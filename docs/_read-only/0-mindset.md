@@ -1,25 +1,5 @@
 记住邓晓芒的，没有完美的人生状态。
 
-> 重复一个行为就能使之成为习惯。
-> 习惯塑造性格。
-> 性格决定命运。
-> 愿成功是你的命运。
-
-性格决定命运，习惯
-
-* fire then aim，Act Then Adjust
-* Hit First, Adjust Later.
-* Do It First, Improve It Later
-* ail Fast, Fail Forward   快速失败，然后从中学习前进。侧重试错的价值。  
-* Move Fast and Break Things  快速行动，即使打破东西也在所不惜（后修复）。  
-* Done is Better Than Perfect 
-* Start Messy
-* Action Creates Clarity.
-
-*faith： 读再多圣经也改不了“太理想化”加 “反例练习”：每天写1件“你过去太天真导致亏钱/吃亏”的事，贴在显眼处。*
-
-*你不需要搞懂每一件事情才能开始工作*
-
 不向希特勒敬礼的人群中的清醒者并没有成名
 
 《君主论》的作者，意大利政治家、思想家尼可罗·马基亚维利曾说：“要冒犯强者，就撒谎；要冒犯弱者，就说实话。”（To offend a strong man, tell him a lie. To offend a weak man, tell him the truth.）
