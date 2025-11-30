@@ -1,6 +1,6 @@
 *You must be a fox to recognize traps, and a lion to frighten wolves.*
 
-
+哲学或心理书籍中也常说：“Anger is a fire that burns the house it’s in.”（愤怒是烧掉自己房子的火）
 
 - **Be a fox to recognize traps:** A leader must be cunning and intelligent to recognize and avoid the deceptions and tricks of others.
     **要像狐狸一样识破陷阱：** 领导者必须狡猾而聪明，才能识破并避免他人的欺骗和诡计。
