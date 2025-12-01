@@ -1,3 +1,5 @@
+iliad——Fagles ，wilson两种版本 。book 9
+
 storytelling
 
 Bible
@@ -336,7 +338,7 @@ Do the things you fear and the death of fear is certain. 去做你害怕的事�
 
 
 
- 
+
 
 ---
 
@@ -626,5 +628,4 @@ BIble
   5 约定四 *凡事尽力而为*
 
 * The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life 不在乎的微妙艺术：一种反直觉的美好生活——3.88分，鸡汤，有没有帮助看个人。
-
 
