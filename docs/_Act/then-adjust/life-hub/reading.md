@@ -1,4 +1,11 @@
-iliad——Fagles ，wilson两种版本 。book 9
+文学
+
+* iliad——Emily Wilson，Fagles，Lattimore 。book 9
+* 安娜·卡列尼娜
+* 拉马佐夫兄弟
+* 弥尔顿《失乐园》（Paradise Lost, 1667）
+
+
 
 storytelling
 
