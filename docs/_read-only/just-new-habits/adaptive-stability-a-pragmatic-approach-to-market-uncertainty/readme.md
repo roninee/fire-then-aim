@@ -157,39 +157,8 @@ By integrating this practice, you not only address your rigidity but also create
 *这世上并没有纯粹的、先于理论的感官经验，没有不为理论所“污染”的双眼；我们所得的全部数据都是“承载着理论的”。*
 
 
-## 威廉·詹姆斯
 
-然后詹姆士的实用主义————影响美国的88本书之一，詹姆士文笔很好，。
-2012美国国会图书馆“形塑美国之书”Books That Shaped America选择的，
-这88本书我可能有时间看的托马斯·潘恩：《常识》 (1776)（擅长讽刺，煽情）
-Alcoholics Anonymous（匿名戒酒12步）——实用价值——big book很大程度上解决了我钻牛角尖的问题，作为人生哲学来读很好。
-——也是美国人俗称的大书
-
-然后罗蒂————当代最伟大，获得丰富比正确更重要正是来自他的观点。
-
-虽然他认为*实践是生活之路，但他不相信通过实践人可以获得客观的真理*。虽然每个人都是从生活的实践中获得他对世界的看法的，但詹姆斯认为，*每个人从生活的实践中获得的看法是不同的*，这是*理所当然的*。在这一点上他与约翰·杜威的看法不同。
-
-**要想真正地认识普遍存在的、被所有的实践分享的、被历史所证实的真理，一个人要获取一个“超信仰”。这个超信仰是无法被实践证实的，但它可以帮助一个人使他的生活变得更丰富和美好。**
-
-### Epistemology 认识论
-
-James defined *true beliefs as those that prove useful to the believer*. His [pragmatic theory of truth](https://en.wikipedia.org/wiki/Pragmatic_theory_of_truth) was a synthesis of [correspondence theory of truth](https://en.wikipedia.org/wiki/Correspondence_theory_of_truth) and [coherence theory of truth](https://en.wikipedia.org/wiki/Coherence_theory_of_truth), with an added dimension. Truth is verifiable to the extent that thoughts and statements correspond with actual things, as well as the extent to which they "hang together", or cohere, as pieces of a puzzle might fit together; these are in turn verified by the observed results of the application of an idea to actual practice.
-James 将*真正的信念定义为那些证明对信徒有用的信念*。他的[实用真理理论](https://en.wikipedia.org/wiki/Pragmatic_theory_of_truth)是[真理的对应理论](https://en.wikipedia.org/wiki/Correspondence_theory_of_truth)和[真理的相干理论](https://en.wikipedia.org/wiki/Coherence_theory_of_truth)的综合体，并增加了一个维度。真理是可验证的，只要思想和陈述与实际事物相符，以及它们“挂在一起”或连贯的程度，就像拼图的碎片可能组合在一起一样;这些反过来又被将想法应用于实际实践的观察结果所验证。
-
-> The most ancient parts of truth … also once were plastic. They also were called true for human reasons. They also mediated between still earlier truths and what in those days were novel observations. Purely objective truth, truth in whose establishment the function of giving human satisfaction in marrying previous parts of experience with newer parts played no role whatsoever, is nowhere to be found. The reasons why we call things true is the reason why they are true, for "to be true" means only to perform this marriage-function.
-> **杜威和席勒着手概括这个观察，并且把它应用到真理最古老的部分上去。那些最古老的真理，也曾一度有过可塑性。它们之所以说是真的也为了人的缘故。它们也曾把更早的真理与当时新观察的东西调和起来。要是说纯粹的客观真理在它建立之中，结合旧经验与新经验而给予人的满足的这种功能不起作用，那么这种客观真理是哪里也找不到的。我们之所以称事物是真的，正是它们为什么是真的理由，因为“是真的”仅意味着实现这种结合的功能。**——真人翻译后的文本
->
-> — "Pragmatism's Conception of Truth," Pragmatism (1907), p. 83.
-> ——“实用主义的真理概念”，《实用主义》（19*07 年），第 83 页。
-
-James held a world view in line with [pragmatism](https://en.wikipedia.org/wiki/Pragmatism), *declaring that the value of any truth was utterly dependent upon its use to the person who held it.* Additional tenets of James's pragmatism include the view that the world is a mosaic of diverse experiences that can only be properly interpreted and understood through an application of "[radical empiricism](https://en.wikipedia.org/wiki/Radical_empiricism)". Radical empiricism, not related to the everyday [scientific empiricism](https://en.wikipedia.org/wiki/Empiricism), *asserts that the world and experience can never be halted for an entirely objective analysis; the mind of the observer and the act of observation affect any empirical approach to truth. The mind, its experiences, and nature are inseparable. James's emphasis on diversity as the default human condition—over and against duality*, especially [Hegelian](https://en.wikipedia.org/wiki/Hegelianism) dialectical duality—has maintained a strong influence in American culture. James's description of the [mind-world](https://en.wikipedia.org/wiki/Mind-world_relation) connection, which he described in terms of a "[stream of consciousness](https://en.wikipedia.org/wiki/Stream_of_consciousness_(psychology))", had a direct and significant impact on [avant-garde](https://en.wikipedia.org/wiki/Avant-garde) and [modernist](https://en.wikipedia.org/wiki/Modernist) literature and art, notably in the case of [James Joyce](https://en.wikipedia.org/wiki/James_Joyce).
-詹姆斯持有符合[实用主义](https://en.wikipedia.org/wiki/Pragmatism)的世界观，*宣称任何真理的价值完全取决于持有它的人对它的使用*。詹姆斯实用主义的其他原则包括这样一种观点，即世界是不同经验的马赛克，只有通过“[激进经验主义](https://en.wikipedia.org/wiki/Radical_empiricism)”的应用才能正确地解释和理解。激进的经验主义，与日常[的科学经验主义](https://en.wikipedia.org/wiki/Empiricism)无关，*断言世界和经验永远不能为了一个完全客观的分析而停止;观察者的思想和观察行为会影响任何对真理的实证方法。思想、它的经验和自然是不可分割的。詹姆斯强调多样性是人类的默认条件——超越并反对二元性*，尤其是[黑格尔的](https://en.wikipedia.org/wiki/Hegelianism)辩证二元性——在美国文化中保持着强大的影响力。詹姆斯对[心灵与世界](https://en.wikipedia.org/wiki/Mind-world_relation)联系的描述，他用“[意识流](https://en.wikipedia.org/wiki/Stream_of_consciousness_(psychology))”来描述，对[前卫](https://en.wikipedia.org/wiki/Avant-garde)和[现代主义](https://en.wikipedia.org/wiki/Modernist)文学和艺术产生了直接而重大的影响，尤其是[詹姆斯·乔伊斯 （James Joyce](https://en.wikipedia.org/wiki/James_Joyce)）。
-
-In "What Pragmatism Means" (1906), James writes that *the central point of his own doctrine of truth is*, in brief:[[30\]](https://en.wikipedia.org/wiki/William_James#cite_note-:2-30)
-在《实用主义的含义》（What Pragmatism Means，1906）中，詹姆斯写道，*他自己的真理学说的中心点是*，简而言之：[[30\]](https://en.wikipedia.org/wiki/William_James#cite_note-:2-30)
-
-> Truths emerge from facts, but they dip forward into facts again and add to them; which facts again create or reveal new truth (the word is indifferent) and so on indefinitely. The "facts" themselves meanwhile are not true. They simply are. Truth is the function of the beliefs that start and terminate among them.
-> *真理从事实中浮现出来，但它们又会深入到事实中，并添加到事实中;哪些事实再次创造或揭示新的真理（这个词是无动于衷的*），等等，无限期。与此同时，“事实”本身并不真实。他们就是。真理是在它们之间开始和结束的信念的功能。
+> 
 
 ## 实用主义的主要论点是：
 
