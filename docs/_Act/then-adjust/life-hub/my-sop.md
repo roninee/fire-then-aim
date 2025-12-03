@@ -14,6 +14,16 @@
 
 question 类似blommberg新闻
 
+if you 聪明人-cunning：
+
+* 如果你*够聪明*就别露富,do not fight 多巴胺
+* geminichat 搜索狗从
+
+熵top:
+
+* 没有kanban
+* 没有额外的todo
+
 
 
 每个目录 top，marquee
